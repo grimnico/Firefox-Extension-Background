@@ -1,6 +1,6 @@
 # Firefox Background
  
-This extension add a background to the firefox start page.
+This extension add the MacOS background to the firefox start page.
 
 Ultra lightweight extension that don't need any permission.
 
