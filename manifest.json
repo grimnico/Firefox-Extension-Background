@@ -6,6 +6,9 @@
         "newtab": "sites.html"
     },
     "permissions": [],
+    "chrome_settings_overrides": {
+        "homepage": "sites.html"
+    },
     "browser_specific_settings": {
         "gecko": {
             "id": "{828e90b4-a4d0-4a8a-8975-ee5f07a32612}",
