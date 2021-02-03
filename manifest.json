@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "Background",
+    "version": "0.3",
+    "chrome_url_overrides": {
+        "newtab": "sites.html"
+    },
+    "permissions": [],
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "{828e90b4-a4d0-4a8a-8975-ee5f07a32612}",
+            "strict_min_version": "54.0a1"
+        }
+    }
+}
